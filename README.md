@@ -1,6 +1,8 @@
 A Module Loader for the Web
 ===
 
+modify
+
 Sea.js is a module loader for the web. It is designed to change the way that you
 organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
 
